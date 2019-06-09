@@ -1,4 +1,4 @@
-import { Calc } from "webcalc"
+import { Calc } from "./pkg/webcalc"
 
 const calc = Calc.new()
 const calcButton = document.getElementById("calcButton");
